@@ -8,8 +8,7 @@ You can press **Go to Categories**  button to open a page having all product cat
   
   
 
-## To run on LOCAL HOST  
-First you have to setup following things:
+### To run on LocalHost,first you have to setup following things:
  * Create database in SQL-SERVER according to script given in repository.
  * Open the project as ASP.NET WEB APP on Visual studio 2019.
  * Connect created database with project. 
